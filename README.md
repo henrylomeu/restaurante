@@ -5,7 +5,7 @@
 <h3>Geritch restaurante</h3> 
 O site é construído em cima do React, uma das bibliotecas JavaScript mais populares para desenvolvimento de interfaces de usuário.</br></br>
 
-Para estilização do site, é utilizada o CSS.
+Para estilização do site, é utilizado o CSS.
 
 <h1> :computer: Tecnologias</h1>
 - React </br>
