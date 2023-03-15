@@ -8,7 +8,7 @@ O site é construído em cima do React, uma das bibliotecas JavaScript mais popu
 Para estilização do site, é utilizado o CSS.
 
 <h1> :computer: Tecnologias</h1>
-- React </br>
+- ReactJS </br>
 - CSS </br>
 
 <h1> :rocket: Como executar</h1>
